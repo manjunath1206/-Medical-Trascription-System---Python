@@ -1,4 +1,4 @@
-**Features:**
+**FEATURES:**
 
 🎙️ Speech-to-Text: Converts clinical audio into accurate transcripts.
 
@@ -13,7 +13,7 @@
 ⚙️ API & UI: Includes a RESTful API and basic web interface for ease of use.
 
 
-**Tech Stack**
+**TECH STACK**
 
 Python 3.8+
 
@@ -28,7 +28,7 @@ ffmpeg (for audio processing)
 
 Docker (for containerization)
 
-OUTPUT:
+**OUTPUT:**
 
 <img width="917" height="446" alt="Output1" src="https://github.com/user-attachments/assets/42d02a9a-5efe-4d4f-bae7-37d517f2171d" />
 
