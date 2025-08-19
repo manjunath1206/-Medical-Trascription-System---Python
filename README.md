@@ -11,9 +11,9 @@
 🛡️ Privacy Compliant: HIPAA-aware design for sensitive data processing.  
 
 ⚙️ API & UI: Includes a RESTful API and basic web interface for ease of use.
-<br>
 
-Tech Stack
+
+**Tech Stack**
 
 Python 3.8+
 
@@ -27,3 +27,5 @@ React / HTML (optional front-end)
 ffmpeg (for audio processing)
 
 Docker (for containerization)
+
+OUTPUT:
