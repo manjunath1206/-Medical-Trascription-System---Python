@@ -12,4 +12,17 @@
 
 ⚙️ API & UI: Includes a RESTful API and basic web interface for ease of use.
 
-<img width="917" height="446" alt="Output1" src="https://github.com/user-attachments/assets/5cd6c55d-c9d4-42b2-bf08-f9f031a5f809" />
+Tech Stack
+
+Python 3.8+
+
+Whisper
+ / Google Speech-to-Text API
+
+Flask / FastAPI (for API)
+
+React / HTML (optional front-end)
+
+ffmpeg (for audio processing)
+
+Docker (for containerization)
