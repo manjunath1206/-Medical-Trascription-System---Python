@@ -11,6 +11,7 @@
 🛡️ Privacy Compliant: HIPAA-aware design for sensitive data processing.  
 
 ⚙️ API & UI: Includes a RESTful API and basic web interface for ease of use.
+<br>
 
 Tech Stack
 
