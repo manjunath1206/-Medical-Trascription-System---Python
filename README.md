@@ -14,7 +14,6 @@
 
 
 **TECH STACK**
-
 Python 3.8+
 
 Whisper
